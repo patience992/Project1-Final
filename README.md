@@ -13,7 +13,7 @@ Missing values were handled using forward fill and mode imputation. Inconsistent
 
 Line plot visualized the relationship between aircraft model and fatal injuries. Descriptive statistics and histograms explored injury severity distribution. Boxplots investigated the association between aircraft make and fatal injuries. Correlation heatmap revealed relationships between different injury categories. Scatter plot analyzed the trend of total fatal injuries over time. Business Recommendations:
 
-Based on the initial analysis, these recommendations emerge:
+### Based on the initial analysis, these recommendations emerge:
 
 Focus on Aircraft Models with Higher Fatal Injury Rates: Further investigation into models with a higher frequency of fatal accidents can prioritize safety measures. Targeted Safety Initiatives Based on Injury Severity: Understanding the distribution and correlations of injury types can guide targeted safety initiatives. Improve Data Quality for Better Analysis: Addressing remaining data inconsistencies might enhance the reliability of future analyses. Further Exploration:
 
