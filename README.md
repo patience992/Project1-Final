@@ -1,9 +1,13 @@
 ## Aviation Data Analysis - A Python Exploration
 This project explores a dataset of aviation accidents, aiming to uncover insights into accident trends, injury severity distribution, and potential areas for safety improvement.
 
-Libraries Used:
+# Libraries Used:
 
-pandas, numpy, matplotlib.pyplot, seaborn, sklearn.model_selection (not used in this initial exploration), Data Cleaning:
+pandas, 
+numpy, 
+matplotlib.pyplot,
+seaborn, 
+sklearn.model_selection (not used in this initial exploration), Data Cleaning:
 
 Missing values were handled using forward fill and mode imputation. Inconsistent data types were addressed by converting specific columns to datetime and integer types. Data inconsistencies like negative injury values and rows exceeding total injuries were removed. Attempts were made to convert remaining object type columns to numeric (if possible). Data Analysis:
 
